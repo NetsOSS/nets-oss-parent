@@ -1,0 +1,11 @@
+.classpath
+.idea
+.project
+.settings
+target
+*.log
+*.iml
+*.*~
+*.releaseBackup
+/release.properties
+atlassian-ide-plugin.xml
