@@ -7,12 +7,12 @@
     <version>7</version>
   </parent>
   <groupId>eu.nets.oss.maven</groupId>
-  <artifactId>nets-parent-oss</artifactId>
+  <artifactId>nets-oss-parent</artifactId>
   <version>1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <scm>
-    <connection>scm:git:https://github.com/NetsOSS/nets-parent-oss.git</connection>
-    <developerConnection>scm:git:https://github.com/NetsOSS/nets-parent-oss.git</developerConnection>
+    <connection>scm:git:https://github.com/NetsOSS/nets-oss-parent.git</connection>
+    <developerConnection>scm:git:https://github.com/NetsOSS/nets-oss-parent.git</developerConnection>
     <url>https://github.com/NetsOSS/nets-parent-oss</url>
   </scm>
   <properties>
